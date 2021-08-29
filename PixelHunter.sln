@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31320.298
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelHunter", "PixelHunter\PixelHunter.csproj", "{557DDDE5-CA54-4610-AC18-0FE37F8BFA39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557DDDE5-CA54-4610-AC18-0FE37F8BFA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557DDDE5-CA54-4610-AC18-0FE37F8BFA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557DDDE5-CA54-4610-AC18-0FE37F8BFA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557DDDE5-CA54-4610-AC18-0FE37F8BFA39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F63A22-549F-4CA8-ACA2-47B937575D87}
+	EndGlobalSection
+EndGlobal
